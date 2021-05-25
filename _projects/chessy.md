@@ -8,16 +8,7 @@ sidebar:
     image: /assets/images/chessy-screenshot.png
     image_alt: "logo"
     text: "Rust, Alpha-Beta pruning, Low-Level optimizations"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - text: <a href="https://github.com/Conzel/chessy"><i class="fab fa-github"></i> GitHub repository</a>
 --- 
 Chessy is a Rust implementation of a _classical_ chess engine (as opposed to the recently emerging
 engines based on neural networks). The goal is to provide a performant chess engine that works as a standalone
@@ -45,4 +36,4 @@ Tables, Quiescence Search and Move Preordering together with some interesting Ru
 # At what level does it play?
 Not fully evaluated, but it should currently be at around 1600 ELO, from tests against humans.
 
-For further information and instructions on how to use, please refer to the (GitHub repository)[https://github.com/Conzel/chessy]!
+For further information and instructions on how to use, please refer to the [GitHub repository](https://github.com/Conzel/chessy)!
