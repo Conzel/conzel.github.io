@@ -1,8 +1,12 @@
 ---
 permalink: /about/
-title: "About"
+title: "About me"
 ---
+I am Alexander Conzelmann and currently working on my Masters in Computer Science at the University of Tübingen.
+My favorite topics are Software Engineering and Machine Learning – and especially the marriage of them is 
+challenging and promising at the same time. I created this page to [showcase some of my favorite projects](/projects) – the goal
+is always to write clean, elegant and highly performant code demonstrating some interesting techniques. All my work can 
+be found on my GitHub page. I am also a huge Open Source proponent, programming language fan (currently enarmored with Rust) and active in the Linux community. 
+Maybe we'll see each other at a local meetup :) Besides programming, I love dancing, cooking, chess and playing the piano.
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+If you want to get in touch, don't hesitate to write me an e-mail!
