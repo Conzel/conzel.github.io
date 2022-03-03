@@ -9,7 +9,7 @@ sidebar:
     image_alt: "Generic AI image"
     text: "Rust, Neural Compression, WebASM"
   - text: <a href="https://github.com/Conzel/zipnet"><i class="fab fa-github"></i> GitHub repository</a>
-  - text: <a href="https://conzel.github.io/zipnet/"><i class="fa-solid fa-link"></i>Project Website</a>
+  - text: <a href="https://conzel.github.io/zipnet/"><i class="fa fa-link"></i>Project Website</a>
 --- 
 ZipNet is a Work-In-Progress for the course project of [Data Compression With Deep Probabilistic Models](https://robamler.github.io/teaching/compress21/) offered by Robert Bamler at the University of Tübingen.
 
