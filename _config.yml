@@ -16,7 +16,8 @@
 title: Conzel
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a Tübingen based PhD student doing research Efficient Machine Learning. 
+  I am a Tübingen based PhD student doing research Efficient Machine Learning. Feel free to come by my website
+  and checkout my projects!
 twitter_username: username
 github_username: conzel
 minimal_mistakes_skin: dirt
@@ -58,7 +59,7 @@ plugins:
 author:
   name   : "Alexander Conzelmann"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Tübingen based CS student with a fascination for programming languages and Linux."
+  bio    : "Tübingen based PhD student working on efficient machine learning."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
